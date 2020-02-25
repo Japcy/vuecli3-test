@@ -1,4 +1,4 @@
-# vue_shop
+# Mi.com
 
 ## Project setup
 ```
